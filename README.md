@@ -3,6 +3,9 @@
 # EDA and HyperParameter Tuning Project
 
 The main goal of this jupyter notebook is to perform EDA and Hyperparameter optimization to improve the accuracy or performance. 
+
+### Problem Statement : To build a classification methodology to predict the type of Thyroid a person has ,based on the features.
+
 ### please note - Hyperparameter tuning soley dependant on the problem statement and business requirements from the client. however, in this project my aim was to improve accuracy from the standard modeling
 
 ## Contents
